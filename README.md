@@ -1,6 +1,6 @@
 ### Hi there, I'm Fahim - aka [FahimFaqiri][website] 👋
 
-[![Website](https://img.shields.io/website?label=MY PERSONAL WEBSITE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jolly-lewin-04c48b.netlify.app)
+[![Website](MY PERSONAL WEBSITE IS HERE !!)](https://jolly-lewin-04c48b.netlify.app)
 
 ## I'm a Brother, Son, Developer, and Teacher!!
 
@@ -12,13 +12,13 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=R9YWg8pzT5KOf51NqHNCdg)
+[<img src="https://www.google.com/search?q=blinding+lights&sxsrf=ALeKk0243YnI48ErOVVvR5VCG3wNhaP8KQ:1602446358823&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiarvTvqa3sAhXmkIsKHThmCBgQ_AUoAnoECBoQBA&biw=859&bih=870#imgrc=8c9_G683x4LnYM" alt="FahimFaqiri Spotify Playing" width="350" />](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=R9YWg8pzT5KOf51NqHNCdg)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FahimFaqiri" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FahimFaqiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FahimFaqiri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
