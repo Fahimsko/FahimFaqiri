@@ -1,6 +1,6 @@
 ### Hi there, I'm Fahim - aka [FahimFaqiri][website] 👋
 
-[![Website](MY PERSONAL WEBSITE IS HERE !!)](https://jolly-lewin-04c48b.netlify.app)
+[Website](MY PERSONAL WEBSITE IS HERE !!)(https://jolly-lewin-04c48b.netlify.app)
 
 ## I'm a Brother, Son, Developer, and Teacher!!
 
@@ -16,9 +16,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="FahimFaqiri" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="FahimFaqiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="FahimFaqiri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="FahimFaqiri" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="FahimFaqiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="FahimFaqiri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
