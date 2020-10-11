@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://www.google.com/search?q=blinding+lights&sxsrf=ALeKk0243YnI48ErOVVvR5VCG3wNhaP8KQ:1602446358823&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiarvTvqa3sAhXmkIsKHThmCBgQ_AUoAnoECBoQBA&biw=859&bih=870#imgrc=8c9_G683x4LnYM" alt="FahimFaqiri Spotify Playing" width="350" />](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=R9YWg8pzT5KOf51NqHNCdg)
+[<img src="./maxresdefault.jpg" alt="FahimFaqiri Spotify Playing" width="350" />](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=R9YWg8pzT5KOf51NqHNCdg)
 
 ### Connect with me:
 
