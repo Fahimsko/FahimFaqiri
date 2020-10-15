@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=@Mywebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://jolly-lewin-04c48b.netlify.app)
 
-## I'm a Brother, Son, Developer, and Teacher!!
+## I'm a Brother, Son, Developer, and Student!!
 
 - 🔭 I want to become a programming teacher perhaps on youtube
 - 🌱 I’m currently learning everything 🤣
