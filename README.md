@@ -52,5 +52,5 @@
 
 </details>
 
-[website]: https://jolly-lewin-04c48b.netlify.app
-[linkedin]: https://www.linkedin.com/in/fahim-faqiri-38b8391b7/
+[website]: https://youthful-bhaskara-6f60ef.netlify.app/
+[linkedin]: https://www.linkedin.com/in/fahimfaqiri/
