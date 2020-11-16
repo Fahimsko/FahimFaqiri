@@ -5,7 +5,7 @@
 ## I'm a Brother, Son, Developer, and Student!!
 
 - 🔭 I want to become a programming teacher perhaps on youtube
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning laravel
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become a full stack programmer
 - ⚡ Fun fact: I love to play ping pong and work out!
@@ -34,6 +34,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/laravel.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
