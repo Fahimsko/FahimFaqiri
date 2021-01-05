@@ -4,7 +4,7 @@
 
 ## I'm a Brother, Son, Developer, and Student!!
 
-- 🔭 I want to become a programming teacher perhaps on youtube
+- 🔭 I want to become a programming teacher
 - 🌱 I’m currently learning laravel
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become a full stack programmer
