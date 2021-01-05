@@ -7,7 +7,7 @@
 - 🔭 I want to become a programming teacher
 - 🌱 I’m currently learning laravel
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Become a full stack programmer
+- 🥅 2021 Goals: Become a full stack programmer
 - ⚡ Fun fact: I love to play ping pong and work out!
 
 ### Spotify Playing 🎧
